@@ -7,5 +7,4 @@ public with sharing class GitHubController {
         System.debug('Check mnb git 2');
         
     }
-    public aqwdd87we1dfwe(){}
-}
+    public aowiejdfoiwejdow(){}
