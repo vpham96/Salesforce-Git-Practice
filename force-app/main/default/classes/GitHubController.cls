@@ -3,6 +3,6 @@ public with sharing class GitHubController {
         System.debug('Check push git');
     }
     public addAnotherMethod(){
-        System.debug('New method handle conflict version 2');
+        System.debug('New method handle conflict version 3');
     }
 }
