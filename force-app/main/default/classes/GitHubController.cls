@@ -7,4 +7,5 @@ public with sharing class GitHubController {
         System.debug('Check mnb git');
         
     }
+    public abc(){}
 }
